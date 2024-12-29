@@ -7,7 +7,7 @@ In my ongoing Master thesis project at the MDC's BIMSB
 [Bioinformatics platform](https://github.com/BIMSBbioinfo/) I am investigating
 the feasibility of using linear deconvolution models to improve the prediction
 accurracy of methods involving bulk RNA-seq data of tumor samples
-([repo](https://github.com/jonasfreimuth/cancer-cleaning)).
+([repo](https://github.com/jonasfreimuth/master-thesis/)).
 
 In a previous project, I worked to improve code quality and prediction accurracy
 of the [PiGx-SARS-Cov-2](https://github.com/BIMSBbioinfo/pigx_sars-cov-2)
