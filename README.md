@@ -22,3 +22,5 @@ further leading to my first published
 [paper](https://doi.org/10.1098/rspb.2021.2142), the analysis code of which can
 be found [here](https://github.com/jonasfreimuth/Phenological-shifts-germany).
 
+For my personal non-bioinformatics GitHub account, see
+[Cormochamelion](https://github.com/Cormochamelion).
